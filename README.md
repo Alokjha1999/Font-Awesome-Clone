@@ -10,7 +10,7 @@ Download according to your syaytem (I prefer LTS version).
 # Clone this repository into your project folder
 
 
-[git clone https://github.com/dhawal-793/Font-Awesome-Clone]
+[https://github.com/Alokjha1999/Font-Awesome-Clone]
 
 
 # Getting Started with Font-Awesome-Clone project
